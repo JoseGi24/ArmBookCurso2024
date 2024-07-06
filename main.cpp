@@ -1,5 +1,7 @@
 #include "mbed.h"
 
+// Ire modificando este archivo segun mi tp, solo modifique el led para pedir revision.
+
 int main()
 {
     DigitalIn B1_USER(BUTTON1);
